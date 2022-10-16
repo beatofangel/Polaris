@@ -11384,16 +11384,20 @@ worldstonechip_hd3	11381		sfx/ambient/event-3d_hd	ambient\event\worldstonechip_h
 cicada_loop_hd1	11382		sfx/ambient/event-3d_hd	ambient\event\cicada_loop_1_hd.flac	0	0	0	1	0	127	179	95	105	3	0	0	50	50	0	0	0	0	3	0	90	20	0	0	0	0	0	-1	-1	-1	0	0	
 cicada_loop_hd2	11383		sfx/ambient/event-3d_hd	ambient\event\cicada_loop_2_hd.flac	0	0	0	1	0	127	179	95	105	0	0	0	50	50	0	0	0	0	3	0	90	20	0	0	0	0	0	-1	-1	-1	0	0	
 cicada_loop_hd3	11384		sfx/ambient/event-3d_hd	ambient\event\cicada_loop_3_hd.flac	0	0	0	1	0	127	179	95	105	0	0	0	50	50	0	0	0	0	3	0	90	20	0	0	0	0	0	-1	-1	-1	0	0	
-dota_1st_blood	11385		sfx/items_hd	item\dota_1st_blood.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_dominating	11386		sfx/items_hd	item\dota_dominating.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_double_kill	11387		sfx/items_hd	item\dota_double_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_godlike	11388		sfx/items_hd	item\dota_godlike.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_holy_shit	11389		sfx/items_hd	item\dota_holy_shit.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_killingspree	11390		sfx/items_hd	item\dota_killingspree.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_mega_kill	11391		sfx/items_hd	item\dota_mega_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_monster_kill	11392		sfx/items_hd	item\dota_monster_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_rampage	11393		sfx/items_hd	item\dota_rampage.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_triple_kill	11394		sfx/items_hd	item\dota_triple_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_ultra_kill	11395		sfx/items_hd	item\dota_ultra_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_unstoppable	11396		sfx/items_hd	item\dota_unstoppable.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
-dota_wicked_sick	11397		sfx/items_hd	item\dota_wicked_sick.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+desecrated_enter	11385	desecrated_enter_hd	sfx/ambient/event-3d_sd	quest\desecrated_enter.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	0	1	0	-1	-1	-1	0	0	
+desecrated_enter_hd	11386		sfx/ambient/event-3d_hd	quest\desecrated_enter_hd.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	0	1	0	-1	-1	-1	0	0	
+music_desecrated	11387	music_desecrated_hd	music_sd	common\options.flac	0	1	0	0	0	127	127	100	100	0	0	1	125	125	1	0	0	0	0	25	0	255	1	1	0	0	1	-1	-1	-1	0	0	
+music_desecrated_hd	11388		music_hd	common\options_hd.flac	0	1	0	0	0	127	127	100	100	0	0	1	125	125	1	0	0	0	0	100	0	255	1	1	0	0	1	-1	-1	-1	0	0	
+dota_1st_blood	11401		sfx/items_hd	item\dota_1st_blood.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_dominating	11402		sfx/items_hd	item\dota_dominating.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_double_kill	11403		sfx/items_hd	item\dota_double_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_godlike	11404		sfx/items_hd	item\dota_godlike.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_holy_shit	11405		sfx/items_hd	item\dota_holy_shit.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_killingspree	11406		sfx/items_hd	item\dota_killingspree.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_mega_kill	11407		sfx/items_hd	item\dota_mega_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_monster_kill	11408		sfx/items_hd	item\dota_monster_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_rampage	11409		sfx/items_hd	item\dota_rampage.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_triple_kill	11410		sfx/items_hd	item\dota_triple_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_ultra_kill	11411		sfx/items_hd	item\dota_ultra_kill.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_unstoppable	11412		sfx/items_hd	item\dota_unstoppable.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
+dota_wicked_sick	11413		sfx/items_hd	item\dota_wicked_sick.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	90	100	0	0	0	0	0	-1	-1	-1	0	0	
